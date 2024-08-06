@@ -22,7 +22,7 @@ A passionate developer specializing in web development and innovative tech solut
   - ![PHP](https://img.shields.io/badge/PHP-%777BB4?style=flat&logo=php&logoColor=white)
 - **Databases:**
   - ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=flat&logo=mongodb&logoColor=white)
-  - ![SQL](https://img.shields.io/badge/SQL-%23000f?style=flat&logo=sql&logoColor=white)
+  - ![SQL](https://img.shields.io/badge/SQL-%2300f?style=flat&logo=sql&logoColor=white)
 - **Machine Learning:**
   - ![OpenCV](https://img.shields.io/badge/OpenCV-%230039A0?style=flat&logo=opencv&logoColor=white)
   - ![ONNX](https://img.shields.io/badge/ONNX-%23004A80?style=flat&logo=onnx&logoColor=white)
