@@ -34,7 +34,7 @@ A passionate developer specializing in web development and innovative tech solut
 
 ## 🔗 **Let’s Connect:**
 
-- [LinkedIn](https://www.linkedin.com/in/sudheesh23)
-- [Gmail](mailto:patwardhansudheesh@gmail.com)
+- ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white) [LinkedIn](https://www.linkedin.com/in/sudheesh23)
+- ![Gmail](https://img.shields.io/badge/Gmail-%23D14836?style=flat&logo=gmail&logoColor=white) [Gmail](mailto:patwardhansudheesh@gmail.com)
 
 Feel free to explore my repositories and reach out if you want to collaborate or just chat about tech! 🚀
