@@ -30,7 +30,7 @@ A passionate developer specializing in web development and innovative tech solut
 ## 🌱 **Currently Learning:**
 
 - Exploring advanced web development techniques
-- Enhancing my C++ skills
+- Enhancing my Java skills
 
 ## 🔗 **Let’s Connect:**
 
