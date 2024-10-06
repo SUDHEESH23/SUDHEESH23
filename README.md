@@ -32,7 +32,7 @@ A passionate developer specializing in web development and innovative tech solut
 - Exploring advanced web development techniques
 - Enhancing my Java skills
 
-### 🏆 Apex Specialist**
+### 🏆 Apex Specialist
 
 ## 🔗 **Let’s Connect:**
 
