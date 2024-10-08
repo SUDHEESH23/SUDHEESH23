@@ -50,7 +50,7 @@
 ---
 
 ### 🏆 **Salesforce Apex Specialist**
-  <img src="./apex-specialist-superbadge.webp" alt="Apex Specialist Superbadge" width="150"/>
+  <img src="./superbadge.jpg" alt="Apex Specialist Superbadge" width="150"/>
 
 ---
 
