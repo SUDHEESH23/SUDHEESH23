@@ -45,7 +45,7 @@
 ## 🌱 **What I'm Learning:**
 
 - Mastering advanced **web development techniques**.
-- Deepening my knowledge in **Java** for backend development.
+- Deepening my knowledge in **Java**.
 
 ---
 
