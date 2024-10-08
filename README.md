@@ -50,7 +50,7 @@
 ---
 
 ### 🏆 **Salesforce Apex Specialist**
-- ![Apex Specialist Superbadge](./superbadge.jpg)
+  ![Apex Specialist Superbadge](./superbadge.jpg)
 
 ---
 
